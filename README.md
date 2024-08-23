@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm currently studying computer science and engineering
 
 <!--
 **hashtag-sau/hashtag-sau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
